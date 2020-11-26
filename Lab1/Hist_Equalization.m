@@ -1,4 +1,4 @@
-Pc=imread('mrttrainbland.jpg');
+Pc=imread('sample01.png');
 whos Pc
 P=rgb2gray(Pc);
 whos P
